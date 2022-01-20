@@ -18,5 +18,5 @@ docker run -v /home/pablo/Descargas:/Descargas -it snap-snappy  NetCDF_to_GeoTif
 		--output=/Descargas
 
 # 2021
-Pablo Zader (pzader@gmail,com) 
+Pablo Zader (pzader@gmail.com) 
 Andres Solarte (e.andres.solartec@gmail.com)
